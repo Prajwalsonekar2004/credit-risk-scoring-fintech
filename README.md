@@ -125,16 +125,20 @@ FROM application_clean;
 
 ---
 
-## Dashboard Screenshots
+## Dashboard Preview
 
-Example:
+### Executive Overview
+![Executive Overview](images/Executive_Overview.png)
 
-```
-/screenshots/dashboard_overview.png
-/screenshots/risk_analysis.png
-/screenshots/customer_insights.png
-/screenshots/loan_decision.png
-```
+### Risk Analysis
+![Risk Analysis](images/Risk_Analysis.png)
+
+### Customer Insights
+![Customer Insights](images/Customer_Insights.png)
+
+### Loan Decision View
+![Loan Decision View](images/Loan_Decision_View.png)
+
 ---
 
 ## Key Insights
