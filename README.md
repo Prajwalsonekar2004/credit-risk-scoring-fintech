@@ -8,7 +8,6 @@ The system uses:
 
 * PostgreSQL for data engineering
 * SQL for feature engineering
-* Python for machine learning
 * Power BI for business dashboards
 
 ---
